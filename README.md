@@ -1,7 +1,7 @@
 # NodeJS-Thinkster
 Learning NodeJS MEAN
 
-#My Porfolio
+# My Porfolio
 This is a change
 
-#why is this not bolded
+# why is this not bolded
